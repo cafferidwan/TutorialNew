@@ -276,17 +276,17 @@ public class LetterActivity extends SimpleBaseGameActivity
 			if(number==1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudioLoop2(R.raw.t1aa1, R.raw.t1aa2_4, LetterActivityInstace);
+				SoundFunction.playAudioLoop2(R.raw.tgame_t1aa1, R.raw.tgame_t1aa2_4, LetterActivityInstace);
 			}
 			else if(number==2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudioLoop2(R.raw.t1a3, R.raw.t1aa2_4, LetterActivityInstace);
+				SoundFunction.playAudioLoop2(R.raw.tgame_t1a3, R.raw.tgame_t1aa2_4, LetterActivityInstace);
 			}
 			else if(number==3)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t1a5, LetterActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t1a5, LetterActivityInstace);
 			}
 		}
 		else if(letterNumber==2)
@@ -294,17 +294,17 @@ public class LetterActivity extends SimpleBaseGameActivity
 			if(number==1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t1uu1, LetterActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t1uu1, LetterActivityInstace);
 			}
 			else if(number==2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t1u1, LetterActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t1u1, LetterActivityInstace);
 			}
 			else if(number==3)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t1uu5, LetterActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t1uu5, LetterActivityInstace);
 			}
 		}
 		//e
@@ -313,17 +313,17 @@ public class LetterActivity extends SimpleBaseGameActivity
 			if(number==1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t1ii1, LetterActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t1ii1, LetterActivityInstace);
 			} 
 			else if(number==2)
 			{ 
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudioLoop2(R.raw.t1i3, R.raw.t1ii2_4, LetterActivityInstace);
+				SoundFunction.playAudioLoop2(R.raw.tgame_t1i3, R.raw.tgame_t1ii2_4, LetterActivityInstace);
 			}
 			else if(number==3)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t1i5, LetterActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t1i5, LetterActivityInstace);
 			}
 		}
 		//aa
@@ -332,17 +332,17 @@ public class LetterActivity extends SimpleBaseGameActivity
 			if(number==1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudioLoop2(R.raw.t1ee1, R.raw.t1ee2, LetterActivityInstace);
+				SoundFunction.playAudioLoop2(R.raw.tgame_t1ee1, R.raw.tgame_t1ee2, LetterActivityInstace);
 			}
 			else if(number==2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudioLoop2(R.raw.t1e3, R.raw.t1ee2, LetterActivityInstace);
+				SoundFunction.playAudioLoop2(R.raw.tgame_t1e3, R.raw.tgame_t1ee2, LetterActivityInstace);
 			}
 			else if(number==3)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t1e5, LetterActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t1e5, LetterActivityInstace);
 			}
 		}
 	}

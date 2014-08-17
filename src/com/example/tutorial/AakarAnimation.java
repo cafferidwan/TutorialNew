@@ -19,7 +19,7 @@ public class AakarAnimation
 						MainActivity.CAMERA_HEIGHT-MainActivity.CAMERA_HEIGHT/5-100);
 			
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t2e5, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2e5, MainActivity.MainActivityInstace);
 			}
 			else if(MainActivity.parrotWay == 10)
 			{
@@ -29,7 +29,7 @@ public class AakarAnimation
 						MainActivity.CAMERA_HEIGHT-MainActivity.CAMERA_HEIGHT/5-100);
 			
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t2e4, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2e4, MainActivity.MainActivityInstace);
 			}
 			else if(MainActivity.parrotWay == 7)
 			{
@@ -39,7 +39,7 @@ public class AakarAnimation
 						MainActivity.CAMERA_HEIGHT-MainActivity.CAMERA_HEIGHT/5-100);
 			
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t2e3, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2e3, MainActivity.MainActivityInstace);
 			
 			}
 			else if(MainActivity.parrotWay == 4)
@@ -50,7 +50,7 @@ public class AakarAnimation
 						MainActivity.CAMERA_HEIGHT-MainActivity.CAMERA_HEIGHT/5 - 100);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t2ee2, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2ee2, MainActivity.MainActivityInstace);
 			}
 			else if(MainActivity.parrotWay == 1)
 			{ 
@@ -60,7 +60,7 @@ public class AakarAnimation
 						MainActivity.CAMERA_HEIGHT-MainActivity.CAMERA_HEIGHT/5 - 100);
 			
 				SoundFunction.audioPlay = true; 
-				SoundFunction.playAudio(R.raw.t2ee1, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2ee1, MainActivity.MainActivityInstace);
 			}
 		}
 		
@@ -107,7 +107,7 @@ public class AakarAnimation
 					{
 						// TODO Auto-generated method stub
 						SoundFunction.audioPlay = true;
-						SoundFunction.playAudio(R.raw.uuanim5, MainActivity.MainActivityInstace);
+						SoundFunction.playAudio(R.raw.tgame_uuanim5, MainActivity.MainActivityInstace);
 					}
 				}));
 				
@@ -154,7 +154,7 @@ public class AakarAnimation
 						MainActivity.parrotHeight, MainActivity.parrotHeight);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudioLoop2(R.raw.t1e3, R.raw.t1e4, MainActivity.MainActivityInstace);
+				SoundFunction.playAudioLoop2(R.raw.tgame_t1e3, R.raw.tgame_t1e4, MainActivity.MainActivityInstace);
 			} 
 			else if(MainActivity.parrotWay == 3)
 			{
@@ -178,7 +178,7 @@ public class AakarAnimation
 					{
         				// TODO Auto-generated method stub
 						SoundFunction.audioPlay = true;
-						SoundFunction.playAudio(R.raw.e, MainActivity.MainActivityInstace);
+						SoundFunction.playAudio(R.raw.tgame_e, MainActivity.MainActivityInstace);
 						
 						Functions.Jump(MainActivity.letter1, 16);
 					} 

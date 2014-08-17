@@ -357,7 +357,7 @@ public class MainActivity extends SimpleBaseGameActivity
 				 
 				if(LetterActivity.letterNumber == 1)
 				{
-					SoundFunction.playAudioLoop2(R.raw.t1aa1, R.raw.t1aa2_4, MainActivity.MainActivityInstace);
+					SoundFunction.playAudioLoop2(R.raw.tgame_t1aa1, R.raw.tgame_t1aa2_4, MainActivity.MainActivityInstace);
 					
 					Functions.parrotWithLetterPath(1, 2, 
 							0, 4,  letter1, parrot, MainActivity.CAMERA_WIDTH  , letter1Pos,
@@ -365,7 +365,7 @@ public class MainActivity extends SimpleBaseGameActivity
 				}
 				else if(LetterActivity.letterNumber == 2)
 				{
-					SoundFunction.playAudio(R.raw.t1uu1, MainActivity.MainActivityInstace);
+					SoundFunction.playAudio(R.raw.tgame_t1uu1, MainActivity.MainActivityInstace);
 					
 					Functions.parrotWithLetterPath(1, 2, 
 							0, 4,  letter1, parrot, MainActivity.CAMERA_WIDTH  , letter1Pos,
@@ -373,7 +373,7 @@ public class MainActivity extends SimpleBaseGameActivity
 				}
 				else if(LetterActivity.letterNumber == 3)
 				{
-					SoundFunction.playAudio(R.raw.t1ii1, MainActivity.MainActivityInstace);
+					SoundFunction.playAudio(R.raw.tgame_t1ii1, MainActivity.MainActivityInstace);
 					
 					Functions.parrotWithLetterPath(1, 2, 
 							0, 6,  letter2, parrot, MainActivity.CAMERA_WIDTH  , letter2Pos,
@@ -381,7 +381,7 @@ public class MainActivity extends SimpleBaseGameActivity
 				}
 				else if(LetterActivity.letterNumber == 4)
 				{
-					SoundFunction.playAudioLoop2(R.raw.t1ee1, R.raw.t1ee2, MainActivity.MainActivityInstace);
+					SoundFunction.playAudioLoop2(R.raw.tgame_t1ee1, R.raw.tgame_t1ee2, MainActivity.MainActivityInstace);
 					
 					Functions.parrotWithLetterPath(1, 7, 
 							0, 6,  letter1, parrot, MainActivity.CAMERA_WIDTH  , letter1Pos,

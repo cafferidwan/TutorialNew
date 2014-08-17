@@ -19,7 +19,7 @@ public class EAnimation
 						MainActivity.CAMERA_HEIGHT-MainActivity.CAMERA_HEIGHT/5-100);
 			
 				SoundFunction.audioPlay = true; 
-				SoundFunction.playAudio(R.raw.t2i3, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2i3, MainActivity.MainActivityInstace);
 			}
 			else if(MainActivity.parrotWay == 10)
 			{
@@ -29,7 +29,7 @@ public class EAnimation
 						MainActivity.CAMERA_HEIGHT-MainActivity.CAMERA_HEIGHT/5-100);
 				
 				SoundFunction.audioPlay = true; 
-				SoundFunction.playAudio(R.raw.t2i2, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2i2, MainActivity.MainActivityInstace);
 			}
 			else if(MainActivity.parrotWay == 7)
 			{
@@ -39,7 +39,7 @@ public class EAnimation
 						MainActivity.CAMERA_HEIGHT-MainActivity.CAMERA_HEIGHT/5-100);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t2i1, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2i1, MainActivity.MainActivityInstace);
 			}
 			else if(MainActivity.parrotWay == 4)
 			{
@@ -131,7 +131,7 @@ public class EAnimation
 						MainActivity.parrotHeight, MainActivity.parrotHeight);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t1i1, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t1i1, MainActivity.MainActivityInstace);
 			} 
 			else if(MainActivity.parrotWay == 3)
 			{
@@ -141,7 +141,7 @@ public class EAnimation
 						MainActivity.parrotHeight, MainActivity.parrotHeight);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t2ii1, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2ii1, MainActivity.MainActivityInstace);
 			}
 		}
 		
@@ -159,7 +159,7 @@ public class EAnimation
 						// TODO Auto-generated method stub
 						
 						SoundFunction.audioPlay = true; 
-						SoundFunction.playAudio(R.raw.bo, MainActivity.MainActivityInstace);
+						SoundFunction.playAudio(R.raw.tgame_bo, MainActivity.MainActivityInstace);
 						
 						Functions.Jump(MainActivity.letter1, 19);
 					}

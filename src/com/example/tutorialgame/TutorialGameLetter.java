@@ -77,7 +77,7 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter1.setScale(2);
 						
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3aa4, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3aa4, TutorialGameActivity.ActivityInstace);
 				
 				//start next activity
 				setStart();
@@ -87,7 +87,7 @@ public class TutorialGameLetter extends Sprite
 					TutorialGameActivity.letter2.setScale(2);
 					
 					SoundFunction.audioPlay = true;
-					SoundFunction.playAudio(R.raw.t3aa3, TutorialGameActivity.ActivityInstace);
+					SoundFunction.playAudio(R.raw.tgame_t3aa3, TutorialGameActivity.ActivityInstace);
 			}
 		}
 		//shorea 2nd part
@@ -98,7 +98,7 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter1.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3a7, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3a7, TutorialGameActivity.ActivityInstace);
 				
 			}
 			else if(TutorialGameActivity.letter2==this)
@@ -106,7 +106,7 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter2.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3a8, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3a8, TutorialGameActivity.ActivityInstace);
 				
 				//start next activity
 				setStart();
@@ -121,14 +121,14 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter1.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3uu3, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3uu3, TutorialGameActivity.ActivityInstace);
 			}
 			else if(TutorialGameActivity.letter2==this)
 			{
 				TutorialGameActivity.letter2.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3uu2, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3uu2, TutorialGameActivity.ActivityInstace);
 				
 				//start next activity
 				setStart();
@@ -142,7 +142,7 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter1.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3u8, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3u8, TutorialGameActivity.ActivityInstace);
 				
 				//start next activity
 				setStart();
@@ -153,7 +153,7 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter2.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3u7, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3u7, TutorialGameActivity.ActivityInstace);
 			}
 		}
 		
@@ -165,14 +165,14 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter1.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3ii3, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3ii3, TutorialGameActivity.ActivityInstace);
 			}
 			else if(TutorialGameActivity.letter2==this)
 			{
 				TutorialGameActivity.letter2.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3ii5, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3ii5, TutorialGameActivity.ActivityInstace);
 				
 				//start next activity
 				setStart();
@@ -182,7 +182,7 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter3.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3ii4, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3ii4, TutorialGameActivity.ActivityInstace);
 			}
 		}
 		//e 2nd part
@@ -193,14 +193,14 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter1.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3i8, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3i8, TutorialGameActivity.ActivityInstace);
 			}
 			else if(TutorialGameActivity.letter2==this)
 			{
 				TutorialGameActivity.letter2.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3i9, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3i9, TutorialGameActivity.ActivityInstace);
 				
 			}
 			else if(TutorialGameActivity.letter3==this)
@@ -208,7 +208,7 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter3.setScale(2);
 			
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3i10, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3i10, TutorialGameActivity.ActivityInstace);
 				
 				//start next activity
 				setStart();
@@ -223,14 +223,14 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter1.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3ee3, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3ee3, TutorialGameActivity.ActivityInstace);
 			}
 			else if(TutorialGameActivity.letter2==this)
 			{
 				TutorialGameActivity.letter2.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3ee4, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3ee4, TutorialGameActivity.ActivityInstace);
 				
 				//start next activity
 				setStart();
@@ -244,7 +244,7 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter1.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3e8, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3e8, TutorialGameActivity.ActivityInstace);
 				
 				//start next activity
 				setStart();
@@ -255,7 +255,7 @@ public class TutorialGameLetter extends Sprite
 				TutorialGameActivity.letter2.setScale(2);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t3e7, TutorialGameActivity.ActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t3e7, TutorialGameActivity.ActivityInstace);
 			}
 		}
 	}

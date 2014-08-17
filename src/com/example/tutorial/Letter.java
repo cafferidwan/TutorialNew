@@ -91,32 +91,32 @@ public class Letter extends Sprite
 			if(a == MainActivity.letter1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.aa, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_aa, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.mo, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_mo, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter3)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.mo, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_mo, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter4)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.aa, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_aa, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.Object1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.aam, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_aam, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.Object2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.ma, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_ma, MainActivity.MainActivityInstace);
 			}
 			
 			counter++;
@@ -131,37 +131,37 @@ public class Letter extends Sprite
 			if(a == MainActivity.letter1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.uu, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_uu, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.to, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_to, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter3)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.chu, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_chu, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter4)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.chu, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_chu, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter5)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.lo, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_lo, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.Object1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.ut, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_ut, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.Object2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.chul, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_chul, MainActivity.MainActivityInstace);
 			}
 			
 			counter++;
@@ -188,37 +188,37 @@ public class Letter extends Sprite
 			if(a == MainActivity.letter1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.bo, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_bo, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.ii, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_ii, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter3)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.cha, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_cha, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter4)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.bi, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_bi, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter5)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.bi, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_bi, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.Object1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.boi, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_boi, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.Object2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.chabi, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_chabi, MainActivity.MainActivityInstace);
 			}
 			
 			counter++;
@@ -245,37 +245,37 @@ public class Letter extends Sprite
 			if(a == MainActivity.letter1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.e, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_e, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.ko, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_ko, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter3)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.be, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_be, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter4)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.be, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_be, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.letter5)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.lo, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_lo, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.Object1)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.ek, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_ek, MainActivity.MainActivityInstace);
 			}
 			else if(a == MainActivity.Object2)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.bel, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_bel, MainActivity.MainActivityInstace);
 			}
 			
 			counter++;

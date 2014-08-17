@@ -21,7 +21,7 @@ public class AAnimation
 			
 				//6
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t2a4, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2a4, MainActivity.MainActivityInstace);
 			}
 			else if(MainActivity.parrotWay == 7)
 			{
@@ -40,7 +40,7 @@ public class AAnimation
 				
 				//4
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.t2aa2, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2aa2, MainActivity.MainActivityInstace);
 			}
 			else if(MainActivity.parrotWay == 1)
 			{ 
@@ -51,7 +51,7 @@ public class AAnimation
 			
 				//3
 				SoundFunction.audioPlay = true; 
-				SoundFunction.playAudio(R.raw.t2aa1, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2aa1, MainActivity.MainActivityInstace);
 			}
 		
 		}
@@ -128,7 +128,7 @@ public class AAnimation
 				
 				//5
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudioLoop3(R.raw.t1e3, R.raw.t1aa2_4, R.raw.t2a3, MainActivity.MainActivityInstace);
+				SoundFunction.playAudioLoop3(R.raw.tgame_t1e3, R.raw.tgame_t1aa2_4, R.raw.tgame_t2a3, MainActivity.MainActivityInstace);
 			} 
 			else if(MainActivity.parrotWay == 3)
 			{
@@ -146,7 +146,7 @@ public class AAnimation
 			if(MainActivity.parrotWay == 12)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.aa, MainActivity.MainActivityInstace); 
+				SoundFunction.playAudio(R.raw.tgame_aa, MainActivity.MainActivityInstace); 
 				
 				Functions.Jump(MainActivity.letter1, 13);
 			}

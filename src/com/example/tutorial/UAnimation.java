@@ -14,7 +14,7 @@ public class UAnimation
 			if(MainActivity.parrotWay == 13)
 			{
 				SoundFunction.audioPlay = true; 
-				SoundFunction.playAudio(R.raw.t2u5, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2u5, MainActivity.MainActivityInstace);
 				
 				Functions.letter(14, 2, MainActivity.letter5, 
 						MainActivity.letter5.getX(), MainActivity.letter5Pos-100,
@@ -24,7 +24,7 @@ public class UAnimation
 			else if(MainActivity.parrotWay == 10)
 			{
 				SoundFunction.audioPlay = true; 
-				SoundFunction.playAudio(R.raw.t2u4, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2u4, MainActivity.MainActivityInstace);
 				
 				Functions.letter(11, 2, MainActivity.letter4, 
 						MainActivity.letter4.getX(), MainActivity.letter4Pos-65,
@@ -34,7 +34,7 @@ public class UAnimation
 			else if(MainActivity.parrotWay == 7)
 			{
 				SoundFunction.audioPlay = true; 
-				SoundFunction.playAudio(R.raw.t2u3, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2u3, MainActivity.MainActivityInstace);
 				
 				Functions.letter(8, 2, MainActivity.letter3, 
 						MainActivity.letter3.getX(), MainActivity.letter3Pos+35, 
@@ -44,7 +44,7 @@ public class UAnimation
 			else if(MainActivity.parrotWay == 4)
 			{
 				SoundFunction.audioPlay = true; 
-				SoundFunction.playAudio(R.raw.t2uu2, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2uu2, MainActivity.MainActivityInstace);
 				
 				Functions.letter(5, 4, MainActivity.letter2, 
 						MainActivity.letter2.getX(), MainActivity.letter1.getX()+MainActivity.letter1.getWidth(),
@@ -52,12 +52,12 @@ public class UAnimation
 						MainActivity.CAMERA_HEIGHT-MainActivity.CAMERA_HEIGHT/5 - 100);
 				
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudioLoop2(R.raw.uuanim3, R.raw.uuanim4, MainActivity.MainActivityInstace);
+				SoundFunction.playAudioLoop2(R.raw.tgame_uuanim3, R.raw.tgame_uuanim4, MainActivity.MainActivityInstace);
 			}
 			else if(MainActivity.parrotWay == 1)
 			{ 
 				SoundFunction.audioPlay = true; 
-				SoundFunction.playAudio(R.raw.t2uu1, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_t2uu1, MainActivity.MainActivityInstace);
 				
 				Functions.letter(2, 2, MainActivity.letter1, 
 						MainActivity.letter1.getX(), MainActivity.letter1Pos,
@@ -162,7 +162,7 @@ public class UAnimation
 			if(MainActivity.parrotWay == 15)
 			{
 				SoundFunction.audioPlay = true;
-				SoundFunction.playAudio(R.raw.uu, MainActivity.MainActivityInstace);
+				SoundFunction.playAudio(R.raw.tgame_uu, MainActivity.MainActivityInstace);
 				
 				Functions.Jump(MainActivity.letter1, 16);
 			}

@@ -303,7 +303,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.mo, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_mo, MainActivity.MainActivityInstace);
 			    						
 		                				Functions.Jump(MainActivity.letter2, 14);
 			    					} 
@@ -317,7 +317,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.aam, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_aam, MainActivity.MainActivityInstace);
 			    						
 		                				MainActivity.Object1.setVisible(true);
 				                		fadeIn(MainActivity.Object1);
@@ -333,7 +333,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.mo, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_mo, MainActivity.MainActivityInstace);
 			    						
 		                				Functions.Jump(MainActivity.letter3, 15);
 			    					} 
@@ -349,7 +349,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.aa, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_aa, MainActivity.MainActivityInstace);
 			    						
 					                	Functions.Jump(MainActivity.letter4, 16);
 			    					} 
@@ -362,7 +362,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                			  	SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.ma, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_ma, MainActivity.MainActivityInstace);
 					                	
 					                	MainActivity.Object2.setVisible(true);
 					                	fadeIn(MainActivity.Object2);
@@ -398,7 +398,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.to, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_to, MainActivity.MainActivityInstace);
 			    						
 			    						Functions.Jump(MainActivity.letter2, 17);
 			    					} 
@@ -414,7 +414,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.ut, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_ut, MainActivity.MainActivityInstace);
 			    						
 			    						MainActivity.Object1.setVisible(true);
 					                	fadeIn(MainActivity.Object1);
@@ -429,7 +429,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 			    						SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.chu, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_chu, MainActivity.MainActivityInstace);
 		                				
 			    						Functions.Jump(MainActivity.letter3, 18);
 		                				Functions.Jump(MainActivity.letter4, 18);
@@ -445,7 +445,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 			    						SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.lo, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_lo, MainActivity.MainActivityInstace);
 		                				
 			    						Functions.Jump(MainActivity.letter5, 19);
 			    					} 
@@ -459,7 +459,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 			    						SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.chul, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_chul, MainActivity.MainActivityInstace);
 		                				
 			    						MainActivity.Object2.setVisible(true);
 					                	fadeIn(MainActivity.Object2);
@@ -497,7 +497,7 @@ public class Functions
 		                				Functions.Jump(MainActivity.letter2, 20);
 				                		
 				                		SoundFunction.audioPlay = true; 
-										SoundFunction.playAudio(R.raw.ii, MainActivity.MainActivityInstace);
+										SoundFunction.playAudio(R.raw.tgame_ii, MainActivity.MainActivityInstace);
 		    						} 
 			    				}));
 		                		
@@ -514,7 +514,7 @@ public class Functions
 					                	fadeIn(MainActivity.Object1);
 					                	
 					                	SoundFunction.audioPlay = true; 
-		        						SoundFunction.playAudio(R.raw.boi, MainActivity.MainActivityInstace);
+		        						SoundFunction.playAudio(R.raw.tgame_boi, MainActivity.MainActivityInstace);
 			    					} 
 			    				}));
 		                		
@@ -528,7 +528,7 @@ public class Functions
 		                				Functions.Jump(MainActivity.letter3, 21);
 		                				
 		                				SoundFunction.audioPlay = true; 
-		        						SoundFunction.playAudio(R.raw.cha, MainActivity.MainActivityInstace);
+		        						SoundFunction.playAudio(R.raw.tgame_cha, MainActivity.MainActivityInstace);
 			    					} 
 			    				}));
 		                	}
@@ -541,7 +541,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true; 
-										SoundFunction.playAudio(R.raw.bi, MainActivity.MainActivityInstace);
+										SoundFunction.playAudio(R.raw.tgame_bi, MainActivity.MainActivityInstace);
 										
 										Functions.Jump(MainActivity.letter4, 22);
 		                				Functions.Jump(MainActivity.letter5, 22);
@@ -555,7 +555,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true; 
-										SoundFunction.playAudio(R.raw.chabi, MainActivity.MainActivityInstace);
+										SoundFunction.playAudio(R.raw.tgame_chabi, MainActivity.MainActivityInstace);
 										
 										MainActivity.Object2.setVisible(true);
 					                	fadeIn(MainActivity.Object2);
@@ -591,7 +591,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 			    						SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.ko, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_ko, MainActivity.MainActivityInstace);
 			    						
 			    						Functions.Jump(MainActivity.letter2, 17);
 			    					} 
@@ -606,7 +606,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.ek, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_ek, MainActivity.MainActivityInstace);
 			    						
 			    						MainActivity.Object1.setVisible(true);
 					                	fadeIn(MainActivity.Object1);
@@ -621,7 +621,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.be, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_be, MainActivity.MainActivityInstace);
 			    						
 		                				Functions.Jump(MainActivity.letter3, 18);
 		                				Functions.Jump(MainActivity.letter4, 18);
@@ -637,7 +637,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.lo, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_lo, MainActivity.MainActivityInstace);
 			    						
 			    						Functions.Jump(MainActivity.letter5, 19);
 			    					} 
@@ -650,7 +650,7 @@ public class Functions
 		    						{
 		                				// TODO Auto-generated method stub
 		                				SoundFunction.audioPlay = true;
-			    						SoundFunction.playAudio(R.raw.bel, MainActivity.MainActivityInstace);
+			    						SoundFunction.playAudio(R.raw.tgame_bel, MainActivity.MainActivityInstace);
 			    						
 			    						MainActivity.Object2.setVisible(true);
 					                	fadeIn(MainActivity.Object2);

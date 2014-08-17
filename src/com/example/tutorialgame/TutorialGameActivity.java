@@ -311,52 +311,52 @@ public class TutorialGameActivity extends SimpleBaseGameActivity
 		if(LetterActivity.letterNumber==1 && TutorialGameActivity.loadGame != 1)
 		{
 			SoundFunction.audioPlay = true;
-			SoundFunction.playAudio(R.raw.t3aa1, TutorialGameActivity.ActivityInstace);
+			SoundFunction.playAudio(R.raw.tgame_t3aa1, TutorialGameActivity.ActivityInstace);
 		}
 		//shorea 2nd part
 		else if(LetterActivity.letterNumber==1 && TutorialGameActivity.loadGame == 1)
 		{
 			SoundFunction.audioPlay = true;
-			SoundFunction.playAudio(R.raw.t3a6, TutorialGameActivity.ActivityInstace);
+			SoundFunction.playAudio(R.raw.tgame_t3a6, TutorialGameActivity.ActivityInstace);
 		}
 		 
 		//u 1st part
 		else if(LetterActivity.letterNumber==2 && TutorialGameActivity.loadGame != 1)
 		{
 			SoundFunction.audioPlay = true;
-			SoundFunction.playAudio(R.raw.t3uu1, TutorialGameActivity.ActivityInstace);
+			SoundFunction.playAudio(R.raw.tgame_t3uu1, TutorialGameActivity.ActivityInstace);
 		}
 		//u 2nd part
 		else if(LetterActivity.letterNumber==2 && TutorialGameActivity.loadGame == 1)
 		{
 			SoundFunction.audioPlay = true;
-			SoundFunction.playAudio(R.raw.t3u5, TutorialGameActivity.ActivityInstace);
+			SoundFunction.playAudio(R.raw.tgame_t3u5, TutorialGameActivity.ActivityInstace);
 		}
 		
 		//e 1st part
 		else if(LetterActivity.letterNumber==3 && TutorialGameActivity.loadGame != 1)
 		{
 			SoundFunction.audioPlay = true;
-			SoundFunction.playAudio(R.raw.t3ii1, TutorialGameActivity.ActivityInstace);
+			SoundFunction.playAudio(R.raw.tgame_t3ii1, TutorialGameActivity.ActivityInstace);
 		} 
 		//e 2nd part
 		else if(LetterActivity.letterNumber==3 && TutorialGameActivity.loadGame == 1)
 		{
 			SoundFunction.audioPlay = true;
-			SoundFunction.playAudio(R.raw.t3i6, TutorialGameActivity.ActivityInstace);
+			SoundFunction.playAudio(R.raw.tgame_t3i6, TutorialGameActivity.ActivityInstace);
 		} 
 		
 		//aa 1st part
 		else if(LetterActivity.letterNumber==4 && TutorialGameActivity.loadGame != 1)
 		{
 			SoundFunction.audioPlay = true;
-			SoundFunction.playAudio(R.raw.t3ee1, TutorialGameActivity.ActivityInstace);
+			SoundFunction.playAudio(R.raw.tgame_t3ee1, TutorialGameActivity.ActivityInstace);
 		}
 		//aa 2nd part
 		else if(LetterActivity.letterNumber==4 && TutorialGameActivity.loadGame == 1)
 		{
 			SoundFunction.audioPlay = true;
-			SoundFunction.playAudio(R.raw.t3e5, TutorialGameActivity.ActivityInstace);
+			SoundFunction.playAudio(R.raw.tgame_t3e5, TutorialGameActivity.ActivityInstace);
 		}
 	}
 
